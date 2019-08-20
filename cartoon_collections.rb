@@ -10,7 +10,7 @@ def summon_captain_planet(planeteer_calls) # code an argument here
 end
 
 def long_planeteer_calls(calls_long) # code an argument here
-  # Your code here
+  calls_long.each { |call| call.include?
 end
 
 def find_the_cheese# code an argument here
